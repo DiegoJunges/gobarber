@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="GoStack" src=".github/logo.svg" width="200px" />
+	<img alt="GoStack" src="logo.svg" width="200px" />
 </h1>
 
 <p align="center">
